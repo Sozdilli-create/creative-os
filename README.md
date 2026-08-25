@@ -1,12 +1,10 @@
-# Creative OS V22.1 Stable
+# Creative OS V23.0 Design Assets Engine
 
-Stable build based on V21 clean route synchronization, with V20-style clearer Design Studio layout.
+Built on the V22.2 navigation baseline. Adds the first interactive Design Assets module: Color Palette Engine.
 
-- 3 independent creative routes
-- Route-to-Design-Assets synchronization
-- Previous/next route navigation inside Design Studio
-- 6 Design Assets with previous/next navigation
-- Expanded preview with return control
-- Mockup Studio preserved
-
-Deploy `index.html` as a static site.
+- Route navigation baseline preserved
+- Route-specific palettes
+- Select and edit colors
+- HEX / RGB / CMYK display
+- 3 palette alternatives
+- Restore original palette
